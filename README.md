@@ -1,13 +1,19 @@
-# British-Counsil
+## British-Counsil
 
-## Test-English
+### Test-English
 
 * [Take your learning with you!](https://test-english.com/)
   + _Grammar Lessons_
   + _Listening Tests_
   + _Reading Tests_
   + _Writing Lessons_
+* [EF Standard English Test ](https://www.efset.org/)
 
+
+
+
+
+- - -
 
 ### training.epam
 
@@ -20,10 +26,30 @@
 
 
 
+- - -
+
+### YouTube Links
+
+* **Stanford Graduate School of Business**
+  + [Impromptu Speaking Frameworks](https://www.youtube.com/watch?v=-FMB6xtQdjM)
+* **Англійська Хата**
+  + [Звук шва [ə] . Англійські звуки.](https://www.youtube.com/watch?v=_E1T6D0DxZw)
+
+
+- - -
 
 #### для В2:
 – I’m sorry to bother you, but if you have a spare minute, would you mind helping me with this task?
 – I’d be happy to help but I’m very busy now. Can it wait?
+
+- - -
+
+### Articles 
+
+* [Поширені помилки у вимові англійських слів та як їх уникати.](https://dou.ua/forums/topic/39356/?from=tg&utm_source=telegram&utm_medium=social)
+* [Easy Ways to Extend Your Answers](https://www.ieltsadvantage.com/2015/10/15/extending-ielts-part-1-answers/)
+* [IELTS technology vocabulary](https://www.ieltsadvantage.com/2015/04/21/technology-vocabulary/)
+
 
 
 
